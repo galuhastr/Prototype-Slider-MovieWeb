@@ -1,0 +1,75 @@
+.LandingPG {
+    height: 500px;
+    top: 0;
+    display: flex;
+    padding: 120px 0px 100px 0px;
+    background-position: top center;
+    background-repeat: no-repeat;
+   
+}
+
+.container1 {
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+.flexbox-container {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    
+}
+
+.flexbox-item {
+    width: 200px;
+}
+
+.flexbox-item-t1 {
+    font-size: 35px;
+    font-weight: 800;
+    font-family: system-ui;
+    letter-spacing: 4px;
+    margin-bottom: 10px;
+    width: 90%;
+    min-height: 100px;
+    flex-grow: 1;
+}
+
+.flexbox-item-p1 {
+    font-family: system-ui;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0.8px;
+    margin-left: 2px;
+    margin-right: 100px;
+    width: 90%;
+    min-height: 100px;
+    flex-grow: 1;
+    
+}
+
+.flexbox-item-t2 {
+    width: 200px;
+    background: tomato;
+    font-size: 35px;
+    font-weight: 800;
+    border-radius: 20px;
+    border-color: light;
+    font-family: system-ui;
+    letter-spacing: 4px;
+    margin-bottom: 10px;
+    width: 90%;
+    min-height: 100px;
+    flex-grow: 1;
+}
+
+.flexbox-item-p2 {
+    margin-left: 2px;
+    margin-right: 100px;
+    width: 90%;
+    min-height: 100px;
+
+    
+    
+}
